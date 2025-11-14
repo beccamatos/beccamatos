@@ -10,9 +10,10 @@
 
 ### I'm passionate about
 
-- Reproducible Workflows
-- Advanced Statistical Modeling
-- Interdisciplinary Collaboration
+- Storytelling with data
+- Reproducible workflows
+- Advanced statistical modeling
+- Interdisciplinary collaboration
 
 ## What I'm Currently Working On
 
