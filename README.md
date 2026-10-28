@@ -4,13 +4,14 @@
 
 ## About me 
 
-- A Ph.D. candidate in natural sciences at Helmholtz Centre for Environmental Research (UFZ)
+- Ph.D. in natural sciences
 - Based in Leipzig, Germany
-- Research focus: I use advanced mass spectrometry and omics approaches to build a data-driven structural understanding of the biogeochemistry of dissolved organic matter
 
 ### I'm passionate about
 
 - Storytelling with data
+- MLOps
+- Data science
 - Reproducible workflows
 - Advanced statistical modeling
 - Interdisciplinary collaboration
