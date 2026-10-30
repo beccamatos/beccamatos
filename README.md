@@ -1,4 +1,4 @@
-# Hey! I'm Rebecca Matos  👋
+# Oie! I'm Rebecca Matos  👋
 
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YmhibHA3dWprZmtvb2RwanRzcmJsbG1xNG50Nmd3bDVrZHBycXRuNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9C25UNTwfZuk85WP/giphy.gif" width="180"/>
 
@@ -6,6 +6,8 @@
 
 - Ph.D. in natural sciences
 - Based in Leipzig, Germany
+- Certified data scientist
+- Working as data scientist remotely
 
 ### I'm passionate about
 
@@ -16,11 +18,6 @@
 - Advanced statistical modeling
 - Interdisciplinary collaboration
 
-## What I'm Currently Working On
-
-**Research Project**: Investigating ecological differences across spatial gradients using liquid chromatography–mass spectrometry (LC-MS) data. My work focuses on preprocessing, feature extraction, and multivariate statistical analysis to understand chemical variation in ecological systems.
-
-**Personal Project**: Designing a full data visualization course that covers theory and practice using Python and R. The course emphasizes storytelling, effective chart design, and hands-on exercises.
 
 ## Technical Stack
 
